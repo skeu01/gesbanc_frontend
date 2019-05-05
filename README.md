@@ -1,10 +1,10 @@
 # vue project
 
 NOTE: First of all, execute backend migrations.
-Default user:
 
-username: test
-password: test
+Default user:
+ - username: test
+ - password: test
 
 1) Execute npm install
 
